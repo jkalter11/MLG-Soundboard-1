@@ -1,7 +1,7 @@
-import winsound
 import os
 os.system("title mlg soundboard w/ montageparodies 420 m8")
 os.system("color f0")
+import winsound
 
 while True:
     print("1.  Sad music")
@@ -52,6 +52,8 @@ while True:
     print("46. Watch me whip")
     print("47. Whip, now watch me nae nae, now watch me whip, whip, watch me nae nae")
     print("48. Whip")
+    print("49. Over the hills, and far away...")
+    print("50. Dum de dum (23 seconds long)")
     print('"exit" to close.')
     print()
     sound=input("Enter sound number:  ")
@@ -151,6 +153,10 @@ while True:
         winsound.PlaySound("watchmewhipnaenae.wav",winsound.SND_FILENAME)
     elif sound == "48":
         winsound.PlaySound("whip.wav",winsound.SND_FILENAME)
+    elif sound == "49":
+        winsound.PlaySound("teletubbies.wav",winsound.SND_FILENAME)
+    elif sound == "50":
+        winsound.PlaySound("dumdedum.wav",winsound.SND_FILENAME)
     elif sound == "exit":
         exit()
     os.system("cls")
