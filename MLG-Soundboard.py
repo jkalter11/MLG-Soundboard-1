@@ -50,7 +50,7 @@ while True:
     print("44. I have osteoperosis m8.")
     print("45. Hey, that's pretty good!")
     print("46. Watch me whip")
-    print("47. Whip, now watch me nae nae, now watch me whip, watch me nae nae")
+    print("47. Whip, now watch me nae nae, now watch me whip, whip, watch me nae nae")
     print("48. Whip")
     print('"exit" to close.')
     print()
