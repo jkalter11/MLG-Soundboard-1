@@ -13,7 +13,8 @@ while True:
     print("1.  Sad music")
     print("2.  Sad music with airhorn")
     print("3.  Airhorn sonata")
-
+```
+```
 print("50. Dum de dum (23 seconds long)")
     print('"exit" to close.')
     print()
