@@ -27,7 +27,7 @@ print("50. Dum de dum (23 seconds long)")
 # But why?
 MLG Soundboard wasn't created to be the most original program ever, nor is it the most fully "featured".  Rather, it's designed to be a different way of playing MLG sounds.  It doesn't rely on an internet connection and is a silly Python creation.
 
-# ompatibility isn't great right now
+# Compatibility isn't great right now
 It's not worth pretending that compatibility is really good with MLG Soundboard right now.  **It isn't.**  It runs only on Windows, primarily because of the use of the `winsound` module (the name speaks for itself) and also because it relies on the `os` module which can not exist or be different on non-Windows machines.
 
 # Download
