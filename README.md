@@ -1,5 +1,9 @@
+# This is an old project
+I haven't made any changes to this in 2 years.
+For any new projects I make, check [here](https://github.com/tomharristech) or [tomharris.tech](https://www.tomharris.tech).
+
 # MLG Soundboard
-MLG Soundboard is a Python-based soundboard that uses the `winsound` module to play sounds from the console.  It has a growing library of sound effects and is here for you to enjoy.
+MLG Soundboard is a Python-based soundboard that uses the `winsound` module to play sounds from the console.
 
 # How it works
 Using the `winsound` module, sounds are played directly from the Python shell.  No IDLE required.  Sounds are in the .wav format.
@@ -24,17 +28,8 @@ print("50. Dum de dum (23 seconds long)")
     elif sound == "2":
 ```
 
-# But why?
-MLG Soundboard wasn't created to be the most original program ever, nor is it the most fully "featured".  Rather, it's designed to be a different way of playing MLG sounds.  It doesn't rely on an internet connection and is a silly Python creation.
-
 # Compatibility isn't great right now
-It's not worth pretending that compatibility is really good with MLG Soundboard right now.  **It isn't.**  It runs only on Windows, primarily because of the use of the `winsound` module (the name speaks for itself) and also because it relies on the `os` module which can not exist or be different on non-Windows machines.
+It's not worth pretending that compatibility is really good with MLG Soundboard right now.  **It isn't.**  It runs only on Windows, primarily because of the use of the `winsound` module (the name speaks for itself) and also because it relies on the `os` module which isn't always present on non-Windows machines.
 
 # Download
-To download this, go **JOHN CENA!!!** on that "Clone or Download" button and click "Download ZIP".  Extract the zip to somewhere where you can keep the soundboard, and don't rename or move any of the files in the folder.  Keep everything in the same place as it is, but you can change the relative directory.
-
-# You can change this
-If you have any ideas to contribute, branch and fork this as much as you like.
-
-# Created by tomharris.tech
-Just a person, really.  You can visit my website at [tomharris.tech](https://www.tomharris.tech) but right now it being hosted on and off.  If you like what I'm doing then...  I've run out of things I can say.  Do what you like.
+To download this, click "Clone or Download" button, then "Download ZIP".  Extract the zip to somewhere where you can keep the soundboard, and don't rename or move any of the files in the folder.  Keep everything in the same place as it is, but you can change the relative directory.
